@@ -1,5 +1,9 @@
 # vrp_drugfarms
-This plugin enables buildings from the bikers dlc with weed farms, meth lab, coke lab and a biker club house, they have permission based entrance, if user is in group he can get in, else he can't.
+This is not my script! The original script can be found here -=- https://github.com/D3uxx/vrp_drugfarms -=- (permissions given)
+
+I have just removed the permissions and translated the script to english. I have not translated the permissions portion since I am not using it. Uncomment the parts noted in the code and add the below.
+
+Thank you!
 
 Add the following groups to /vrp/cfg/groups.lua
 ```
